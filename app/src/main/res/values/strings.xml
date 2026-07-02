@@ -1,3 +1,89 @@
 <resources>
     <string name="app_name">RussiaGuide</string>
+
+
+
+    <string name="category_attraction">Достопримечательность</string>
+    <string name="category_cafe">Кафе</string>
+    <string name="category_hotel">Отель</string>
+    <string name="category_entertainment">Развлечение</string>
+
+
+
+
+    <string name="region_central">Центральный федеральный округ</string>
+    <string name="region_northwest">Северо-Западный федеральный округ</string>
+    <string name="region_south">Южный федеральный округ</string>
+    <string name="region_north_caucasus">Северо-Кавказский федеральный округ</string>
+    <string name="region_volga">Приволжский федеральный округ</string>
+    <string name="region_ural">Уральский федеральный округ</string>
+    <string name="region_siberia">Сибирский федеральный округ</string>
+    <string name="region_far_east">Дальневосточный федеральный округ</string>
+
+
+
+
+    <!-- Города -->
+    <string name="city_moscow">Москва</string>
+    <string name="city_yaroslavl">Ярославль</string>
+
+    <string name="city_saint_petersburg">Санкт-Петербург</string>
+    <string name="city_kaliningrad">Калининград</string>
+
+    <string name="city_sochi">Сочи</string>
+    <string name="city_krasnodar">Краснодар</string>
+
+    <string name="city_pyatigorsk">Пятигорск</string>
+    <string name="city_kislovodsk">Кисловодск</string>
+
+    <string name="city_kazan">Казань</string>
+    <string name="city_nizhny_novgorod">Нижний Новгород</string>
+
+    <string name="city_ekaterinburg">Екатеринбург</string>
+    <string name="city_tyumen">Тюмень</string>
+
+    <string name="city_novosibirsk">Новосибирск</string>
+    <string name="city_irkutsk">Иркутск</string>
+
+    <string name="city_vladivostok">Владивосток</string>
+    <string name="city_khabarovsk">Хабаровск</string>
+
+
+
+
+    <!-- Описания городов -->
+    <string name="city_moscow_description">Столица России, крупнейший город страны и один из главных культурных, деловых и исторических центров.</string>
+
+    <string name="city_saint_petersburg_description">Город на Неве, известный своими дворцами, музеями, белыми ночами и богатой историей.</string>
+
+    <string name="city_kaliningrad_description">Самый западный город России с европейской архитектурой, богатой историей и выходом к Балтийскому морю.</string>
+
+    <string name="city_yaroslavl_description">Красивый город на Волге, входящий в маршрут Золотого кольца России.</string>
+
+    <string name="city_sochi_description">Популярный курорт на побережье Черного моря с мягким климатом и живописной природой.</string>
+
+    <string name="city_krasnodar_description">Современный южный город с уютными парками, набережными и теплым климатом.</string>
+
+    <string name="city_pyatigorsk_description">Курортный город Кавказских Минеральных Вод, известный своими источниками и местами, связанными с Лермонтовым.</string>
+
+    <string name="city_kislovodsk_description">Один из самых известных бальнеологических курортов России с большим национальным парком.</string>
+
+    <string name="city_kazan_description">Столица Республики Татарстан, где гармонично сочетаются русская и татарская культуры.</string>
+
+    <string name="city_nizhny_novgorod_description">Один из крупнейших городов России, расположенный на слиянии Волги и Оки.</string>
+
+    <string name="city_ekaterinburg_description">Крупный город Урала, сочетающий богатую историю и современную архитектуру.</string>
+
+    <string name="city_tyumen_description">Первый русский город Сибири, известный своими горячими источниками.</string>
+
+    <string name="city_novosibirsk_description">Крупнейший город Сибири, известный научными центрами и театрами.</string>
+
+    <string name="city_irkutsk_description">Исторический город рядом с озером Байкал, сочетающий старинную архитектуру и уникальную природу.</string>
+
+    <string name="city_vladivostok_description">Главный город российского Дальнего Востока с живописными мостами и видом на Тихий океан.</string>
+
+    <string name="city_khabarovsk_description">Крупный город на берегу Амура, известный своими набережными и зелеными парками.</string>
+
+
+
 </resources>
