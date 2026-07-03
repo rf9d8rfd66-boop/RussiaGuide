@@ -86,4 +86,56 @@
 
 
 
+
+
+    <!-- Главный экран -->
+    <string name="home_title">Путеводитель по России</string>
+    <string name="filter">Фильтрация</string>
+    <string name="popular_cities">Популярные города</string>
+    <string name="all_cities">Все города</string>
+
+
+
+
+
+
+    <!-- ================= МОСКВА ================= -->
+
+    <!-- Красная площадь -->
+    <string name="place_red_square">Красная площадь</string>
+    <string name="place_red_square_description">Главная площадь России, расположенная рядом с Московским Кремлем. Одно из самых известных мест страны.</string>
+    <string name="place_red_square_address">г. Москва, Красная площадь</string>
+    <string name="place_red_square_time">Круглосуточно</string>
+    <string name="place_red_square_price">Бесплатно</string>
+
+    <!-- Кофемания -->
+    <string name="place_coffeemania">Кофемания</string>
+    <string name="place_coffeemania_description">Популярная сеть кафе с большим выбором кофе, завтраков и авторских блюд.</string>
+    <string name="place_coffeemania_address">г. Москва, ул. Большая Никитская, 13</string>
+    <string name="place_coffeemania_time">Ежедневно 08:00–23:00</string>
+    <string name="place_coffeemania_price">Средний чек: от 1500 ₽</string>
+
+    <!-- Cosmos Moscow VDNH Hotel -->
+    <string name="place_cosmos_hotel">Cosmos Moscow VDNH Hotel</string>
+    <string name="place_cosmos_hotel_description">Один из крупнейших гостиничных комплексов Москвы, расположенный рядом с ВДНХ.</string>
+    <string name="place_cosmos_hotel_address">г. Москва, проспект Мира, 150</string>
+    <string name="place_cosmos_hotel_time">Круглосуточно</string>
+    <string name="place_cosmos_hotel_price">От 6000 ₽ за ночь</string>
+
+    <!-- Парк Зарядье -->
+    <string name="place_zaryadye">Парк Зарядье</string>
+    <string name="place_zaryadye_description">Современный парк в центре Москвы с парящим мостом, концертным залом и живописными видами.</string>
+    <string name="place_zaryadye_address">г. Москва, ул. Варварка, 6</string>
+    <string name="place_zaryadye_time">Ежедневно 10:00–22:00</string>
+    <string name="place_zaryadye_price">Вход бесплатный</string>
+
+
+
+
+    <string name="region">Регион</string>
+    <string name="city">Город</string>
+    <string name="place_type">Тип места</string>
+    <string name="show">Показать</string>
+
+
 </resources>

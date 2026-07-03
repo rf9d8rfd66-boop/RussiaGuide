@@ -134,3 +134,10 @@ val cities = listOf(
         imageRes = R.drawable.city_khabarovsk
     )
 )
+
+val popularCities = cities.filter {
+    it.id == 1 ||
+            it.id == 3 ||
+            it.id == 5 ||
+            it.id == 9
+}
