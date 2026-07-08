@@ -132,6 +132,33 @@
 
 
 
+    <!-- ================= ЯРОСЛАВЛЬ ================= -->
+
+    <string name="place_yaroslavl_monastery">Спасо-Преображенский монастырь</string>
+    <string name="place_yaroslavl_monastery_description">Древнейший монастырь Ярославля, основанный в XII веке. Часто называется Кремлем Ярославля.</string>
+    <string name="place_yaroslavl_monastery_address">г. Ярославль, Богоявленская пл., 25</string>
+    <string name="place_yaroslavl_monastery_time">Ежедневно 09:00–18:00</string>
+    <string name="place_yaroslavl_monastery_price">Бесплатно</string>
+
+    <string name="place_yaroslavl_ioann">Ресторан «Иоанн Васильевич»</string>
+    <string name="place_yaroslavl_ioann_description">Колоритный ресторан в стиле русской старины с авторскими блюдами и живой музыкой.</string>
+    <string name="place_yaroslavl_ioann_address">г. Ярославль, Революционная улица, 34</string>
+    <string name="place_yaroslavl_ioann_time">Ежедневно 12:00–23:00</string>
+    <string name="place_yaroslavl_ioann_price">Средний чек: 1000-1800 ₽</string>
+
+    <string name="place_yaroslavl_aleksha">Гостиница «Алёша Попович Двор»</string>
+    <string name="place_yaroslavl_aleksha_description">Уютный отель в центре города с тематическим рестораном и видом на Волгу.</string>
+    <string name="place_yaroslavl_aleksha_address">г. Ярославль, улица Нахимсона, 23</string>
+    <string name="place_yaroslavl_aleksha_time">Круглосуточно</string>
+    <string name="place_yaroslavl_aleksha_price">От 4500 ₽ за ночь</string>
+
+    <string name="place_yaroslavl_volkov">Театр им. Ф. Г. Волкова</string>
+    <string name="place_yaroslavl_volkov_description">Старейший русский драматический театр, основанный купцом Волковым в 1750 году.</string>
+    <string name="place_yaroslavl_volkov_address">г. Ярославль, пл. Волкова, 1</string>
+    <string name="place_yaroslavl_volkov_time">Кассы: Ежедневно 10:00–14:00, 14:30-19:00</string>
+    <string name="place_yaroslavl_volkov_price">от 500 ₽</string>
+
+
 
 
 
@@ -165,6 +192,36 @@
 
 
 
+    <!-- ================= КАЛИНИНГРАД ================= -->
+
+    <string name="place_kaliningrad_cathedral">Кафедральный собор</string>
+    <string name="place_kaliningrad_cathedral_description">Готический собор XIV века на острове Канта. Здесь находится могила философа Иммануила Канта.</string>
+    <string name="place_kaliningrad_cathedral_address">г. Калининград, ул. Канта, 1</string>
+    <string name="place_kaliningrad_cathedral_time">Ежедневно 10:00–19:00</string>
+    <string name="place_kaliningrad_cathedral_price">Вход: 300 ₽</string>
+
+    <string name="place_kaliningrad_madame_bushe">Ресторан «Мадам Буше»</string>
+    <string name="place_kaliningrad_madame_bushe_description">Ресторан расположен в здании старинного маяка на острове Канта. Здесь можно попробовать блюда французской кухни в оригинальной интерпретации шеф-повара.</string>
+    <string name="place_kaliningrad_madame_bushe_address">г. Калининград, Октябрьская улица, 2А</string>
+    <string name="place_kaliningrad_madame_bushe_time">Ежедневно 11:00–23:00</string>
+    <string name="place_kaliningrad_madame_bushe_price">Средний чек: от 1200 ₽</string>
+
+    <string name="place_kaliningrad_crown39">Crown39</string>
+    <string name="place_kaliningrad_crown39_description">Гостиница Crown39 предлагает своим гостям апартаменты с дизайнерским ремонтом, стильной мебелью и панорамными окнами, из которых открывается вид на город.</string>
+    <string name="place_kaliningrad_crown39_address">г. Калининград, улица 1812 года, 126</string>
+    <string name="place_kaliningrad_crown39_time">Ежедневно 08:00-22:00</string>
+    <string name="place_kaliningrad_crown39_price">От 4600 ₽ за ночь</string>
+
+    <string name="place_kaliningrad_ocean">Музей Мирового океана</string>
+    <string name="place_kaliningrad_ocean_description">Крупнейший музейный комплекс страны, включающий подводную лодку, суда и аквариум.</string>
+    <string name="place_kaliningrad_ocean_address">г. Калининград, наб. Петра Великого, 1</string>
+    <string name="place_kaliningrad_ocean_time">Ежедневно 10:00–19:00 (Пн - выходной)</string>
+    <string name="place_kaliningrad_ocean_price">от 400 ₽</string>
+
+
+
+
+
     <!-- ================= СОЧИ ================= -->
 
     <string name="place_riviera">Парк Ривьера</string>
@@ -173,11 +230,11 @@
     <string name="place_riviera_time">Ежедневно 08:00-23:00</string>
     <string name="place_riviera_price">Вход свободный</string>
 
-    <string name="place_sochi_cafe">Каури</string>
-    <string name="place_sochi_cafe_description">Расположен на мосту на огромной высоте, и виды с веранды просто захватывают дух — горы, пропасти и бескрайние просторы создают ощущение, будто ты паришь в облаках.</string>
-    <string name="place_sochi_cafe_address">г. Сочи, Краснофлотская ул., 54, село Казачий Брод</string>
-    <string name="place_sochi_cafe_time">Ежедневно 12:00-20:00</string>
-    <string name="place_sochi_cafe_price">Средний чек 1500-2000 ₽</string>
+    <string name="place_kauri">Ресторан «Каури»</string>
+    <string name="place_kauri_description">Расположен на мосту на огромной высоте, и виды с веранды просто захватывают дух — горы, пропасти и бескрайние просторы создают ощущение, будто ты паришь в облаках.</string>
+    <string name="place_kauri_address">г. Сочи, Краснофлотская ул., 54, село Казачий Брод</string>
+    <string name="place_kauri_time">Ежедневно 12:00-20:00</string>
+    <string name="place_kauri_price">Средний чек 1500-2000 ₽</string>
 
     <string name="place_sochi_hotel">Отель Сочи Парк</string>
     <string name="place_sochi_hotel_description">Современный отель в непосредственной близости от тематического парка.</string>
@@ -191,6 +248,93 @@
     <string name="place_sochi_park_time">Ежедневно 10:00-22:00</string>
     <string name="place_sochi_park_price">От 2500 ₽</string>
 
+
+
+
+
+
+    <!-- ================= КРАСНОДАР ================= -->
+
+    <string name="place_krasnodar_park">Парк «Краснодар»</string>
+    <string name="place_krasnodar_park_description">Современный парк европейского уровня вокруг футбольного стадиона с арт-объектами и зонами отдыха.</string>
+    <string name="place_krasnodar_park_address">г. Краснодар, улица Разведчика Леонова</string>
+    <string name="place_krasnodar_park_time">Ежедневно 05:00-00:00</string>
+    <string name="place_krasnodar_park_price">Бесплатно</string>
+
+    <string name="place_krasnodar_ptichka">Птичка-Невеличка</string>
+    <string name="place_krasnodar_ptichka_description">Идеальное место для романтических ужинов, встреч с друзьями или семейных обедов. Интерьер заведения современный, уютный, с элементами домашнего тепла.</string>
+    <string name="place_krasnodar_ptichka_address">г. Краснодар, Красная улица, 133А</string>
+    <string name="place_krasnodar_ptichka_time">Ежедневно 11:00–00:00</string>
+    <string name="place_krasnodar_ptichka_price">Средний чек: 1800-2000 ₽</string>
+
+    <string name="place_krasnodar_hilton">Hampton by Hilton</string>
+    <string name="place_krasnodar_hilton_description">Это популярная гостиница высокого уровня для города, которая предлагает хороший сервис по доступной цене .</string>
+    <string name="place_krasnodar_hilton_address">г. Краснодар, Красная улица, 25/2к1</string>
+    <string name="place_krasnodar_hilton_time">Круглосуточно</string>
+    <string name="place_krasnodar_hilton_price">От 6900 ₽ за ночь</string>
+
+    <string name="place_krasnodar_museum_kovalenko">Художественный музей им. Ф.А. Коваленко</string>
+    <string name="place_krasnodar_museum_kovalenko_description">Отличное место, чтобы погрузиться в мир искусства, начиная с древних икон и заканчивая работами признанных мастеров.</string>
+    <string name="place_krasnodar_museum_kovalenko_address">г. Краснодар, Красная улица, 13</string>
+    <string name="place_krasnodar_museum_kovalenko_time">Ежедневно 10:00-18:00 (Пн выходной)</string>
+    <string name="place_krasnodar_museum_kovalenko_price">от 250 ₽</string>
+
+
+
+
+
+    <!-- ================= ПЯТИГОРСК ================= -->
+
+    <string name="place_pyatigorsk_proval">Провал</string>
+    <string name="place_pyatigorsk_proval_description">Знаменитое карстовое озеро ярко-голубого цвета в недрах горы Машук с температурой воды +26°C.</string>
+    <string name="place_pyatigorsk_proval_address">г. Пятигорск, бульвар Гагарина</string>
+    <string name="place_pyatigorsk_proval_time">Ежедневно 09:00–20:00 (Пн выходной)</string>
+    <string name="place_pyatigorsk_proval_price">Бесплатно</string>
+
+    <string name="place_pyatigorsk_mountain">Ресторан «Горы-Горы»</string>
+    <string name="place_pyatigorsk_mountain_description">Расположен на смотровой площадке горы Машук и предлагает своим гостям панорамный вид на город Пятигорск.</string>
+    <string name="place_pyatigorsk_mountain_address">г. Пятигорск, бульвар Гагарина, 4/1</string>
+    <string name="place_pyatigorsk_mountain_time">Ежедневно 10:00–00:00</string>
+    <string name="place_pyatigorsk_mountain_price">Средний чек: 1000-1500 ₽</string>
+
+    <string name="place_pyatigorsk_beshtau">Гостиница «Бештау»</string>
+    <string name="place_pyatigorsk_beshtau_description">Исторический отель в центре курорта с собственным бюветом минеральной воды и видом на горы.</string>
+    <string name="place_pyatigorsk_beshtau_address">г. Пятигорск, Первая Бульварная улица, 17</string>
+    <string name="place_pyatigorsk_beshtau_time">Круглосуточно</string>
+    <string name="place_pyatigorsk_beshtau_price">От 5500 ₽ за ночь</string>
+
+    <string name="place_pyatigorsk_mashuk">Канатная дорога на гору Машук</string>
+    <string name="place_pyatigorsk_mashuk_description">Подъём на высоту 1125 метров, откуда открывается потрясающий вид на Эльбрус и Кавказский хребет.</string>
+    <string name="place_pyatigorsk_mashuk_address">г. Пятигорск, бульвар Гагарина, 2</string>
+    <string name="place_pyatigorsk_mashuk_time">Ежедневно 09:00–21:00</string>
+    <string name="place_pyatigorsk_mashuk_price">От 250 ₽</string>
+
+
+    <!-- ================= КИСЛОВОДСК ================= -->
+
+    <string name="place_kislovodsk_park">Курортный парк</string>
+    <string name="place_kislovodsk_park_description">Один из крупнейших рукотворных парков Европы с цветниками, павильонами и Нарзанной галереей.</string>
+    <string name="place_kislovodsk_park_address">г. Кисловодск, терренкур № 2</string>
+    <string name="place_kislovodsk_park_time">Круглосуточно</string>
+    <string name="place_kislovodsk_park_price">Бесплатно</string>
+
+    <string name="place_kislovodsk_shafran">Шафран</string>
+    <string name="place_kislovodsk_shafran_description">Место, где можно попробовать блюда кавказской кухни, такие как шашлык, хинкали, осетинские пироги и хачапури по-аджарски.</string>
+    <string name="place_kislovodsk_shafran_address">г. Кисловодск, улица Кирова, 50</string>
+    <string name="place_kislovodsk_shafran_time">Ежедневно 11:00–00:00</string>
+    <string name="place_kislovodsk_shafran_price">Средний чек: от 1000 ₽</string>
+
+    <string name="place_kislovodsk_bristol">МИРРОС Ле Бристоль</string>
+    <string name="place_kislovodsk_bristol_description">Гостиница Le Bristol расположена в центре Кисловодска, недалеко от Курортного бульвара и центрального рынка.</string>
+    <string name="place_kislovodsk_bristol_address">г. Кисловодск, проспект Победы, 9А</string>
+    <string name="place_kislovodsk_bristol_time">Круглосуточно</string>
+    <string name="place_kislovodsk_bristol_price">От 3100 ₽ за ночь</string>
+
+    <string name="place_kislovodsk_cable">Канатная дорога Кисловодска</string>
+    <string name="place_kislovodsk_cable_description">Современная маятниковая канатная дорога, поднимающая туристов на гору Малое Седло.</string>
+    <string name="place_kislovodsk_cable_address">г. Кисловодск, канатная дорога Кисловодск</string>
+    <string name="place_kislovodsk_cable_time">Ежедневно 10:00–18:00 (Пн выходной)</string>
+    <string name="place_kislovodsk_cable_price">От 400 ₽</string>
 
 
 
@@ -221,6 +365,41 @@
     <string name="place_kazan_circus_address">г. Казань, ул. Петра Сидорова, 1</string>
     <string name="place_kazan_circus_time">Ежедневно 9:00-18:00</string>
     <string name="place_kazan_circus_price">От 800 ₽</string>
+
+
+
+
+
+    <!-- ================= НИЖНИЙ НОВГОРОД ================= -->
+
+    <string name="place_nn_kremlin">Нижегородский кремль</string>
+    <string name="place_nn_kremlin_description">Мощная крепость XV века на слиянии Оки и Волги. Включает 13 башен и Михайло-Архангельский собор.</string>
+    <string name="place_nn_kremlin_address">г. Нижний Новгород, Кремль, 1</string>
+    <string name="place_nn_kremlin_time">Ежедневно 06:00–22:00</string>
+    <string name="place_nn_kremlin_price">Вход на стены: 250 ₽</string>
+
+    <string name="place_nn_mitrich">Mitrich</string>
+    <string name="place_nn_mitrich_description">Стейк-хаус, ориентированный на локальные сезонные продукты и большой выбор вина.</string>
+    <string name="place_nn_mitrich_address">г. Нижний Новгород, Ковалихинская улица, 8</string>
+    <string name="place_nn_mitrich_time">Ежедневно 12:00–00:00</string>
+    <string name="place_nn_mitrich_price">Средний чек: 2500-3000 ₽</string>
+
+    <string name="place_nn_sheraton">Sheraton</string>
+    <string name="place_nn_sheraton_description">Пятизвездочный отель, расположенный в самом сердце Нижнего Новгорода, всего в 400 метрах от Кремля.</string>
+    <string name="place_nn_sheraton_address">г. Нижний Новгород, Театральная площадь, 1</string>
+    <string name="place_nn_sheraton_time">Круглосуточно</string>
+    <string name="place_nn_sheraton_price">От 15000 ₽ за ночь</string>
+
+    <string name="place_nn_maze">Стеклянный лабиринт</string>
+    <string name="place_nn_maze_description">Музей оптических иллюзий, который предлагает посетителям погрузиться в мир, где все выглядит не так, как кажется.</string>
+    <string name="place_nn_maze_address">г. Нижний Новгород, Большая Покровская улица, 30А</string>
+    <string name="place_nn_maze_time">Ежедневно 10:00–22:00</string>
+    <string name="place_nn_maze_price">От 1000 ₽</string>
+
+
+
+
+
 
 
 
