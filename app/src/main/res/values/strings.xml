@@ -130,8 +130,6 @@
     <string name="place_zaryadye_price">Вход бесплатный</string>
 
 
-
-
     <!-- ================= ЯРОСЛАВЛЬ ================= -->
 
     <string name="place_yaroslavl_monastery">Спасо-Преображенский монастырь</string>
@@ -157,9 +155,6 @@
     <string name="place_yaroslavl_volkov_address">г. Ярославль, пл. Волкова, 1</string>
     <string name="place_yaroslavl_volkov_time">Кассы: Ежедневно 10:00–14:00, 14:30-19:00</string>
     <string name="place_yaroslavl_volkov_price">от 500 ₽</string>
-
-
-
 
 
     <!-- ================= САНКТ-ПЕТЕРБУРГ ================= -->
@@ -189,9 +184,6 @@
     <string name="place_mariinsky_price">От 1000 ₽</string>
 
 
-
-
-
     <!-- ================= КАЛИНИНГРАД ================= -->
 
     <string name="place_kaliningrad_cathedral">Кафедральный собор</string>
@@ -217,9 +209,6 @@
     <string name="place_kaliningrad_ocean_address">г. Калининград, наб. Петра Великого, 1</string>
     <string name="place_kaliningrad_ocean_time">Ежедневно 10:00–19:00 (Пн - выходной)</string>
     <string name="place_kaliningrad_ocean_price">от 400 ₽</string>
-
-
-
 
 
     <!-- ================= СОЧИ ================= -->
@@ -249,10 +238,6 @@
     <string name="place_sochi_park_price">От 2500 ₽</string>
 
 
-
-
-
-
     <!-- ================= КРАСНОДАР ================= -->
 
     <string name="place_krasnodar_park">Парк «Краснодар»</string>
@@ -278,9 +263,6 @@
     <string name="place_krasnodar_museum_kovalenko_address">г. Краснодар, Красная улица, 13</string>
     <string name="place_krasnodar_museum_kovalenko_time">Ежедневно 10:00-18:00 (Пн выходной)</string>
     <string name="place_krasnodar_museum_kovalenko_price">от 250 ₽</string>
-
-
-
 
 
     <!-- ================= ПЯТИГОРСК ================= -->
@@ -337,9 +319,6 @@
     <string name="place_kislovodsk_cable_price">От 400 ₽</string>
 
 
-
-
-
     <!-- ================= КАЗАНЬ ================= -->
 
     <string name="place_kazan_kremlin">Казанский Кремль</string>
@@ -365,9 +344,6 @@
     <string name="place_kazan_circus_address">г. Казань, ул. Петра Сидорова, 1</string>
     <string name="place_kazan_circus_time">Ежедневно 9:00-18:00</string>
     <string name="place_kazan_circus_price">От 800 ₽</string>
-
-
-
 
 
     <!-- ================= НИЖНИЙ НОВГОРОД ================= -->
@@ -397,11 +373,166 @@
     <string name="place_nn_maze_price">От 1000 ₽</string>
 
 
+    <!-- ================= ЕКАТЕРИНБУРГ ================= -->
+
+    <string name="place_ekb_church">Храм на Крови</string>
+    <string name="place_ekb_church_description">Величественный храм, построенный на месте снесения Ипатьевского дома, где была расстреляна царская семья.</string>
+    <string name="place_ekb_church_address">г. Екатеринбург, ул. Царская, 10</string>
+    <string name="place_ekb_church_time">Ежедневно 07:30–20:00</string>
+    <string name="place_ekb_church_price">Бесплатно</string>
+
+    <string name="place_ekb_syrovarnya">Сыроварня</string>
+    <string name="place_ekb_syrovarnya_description">Ресторан известной сети Новикова, специализирующийся на блюдах с сыром, итальянской кухне и авторских десертах. Уютный интерьер в стиле загородного дома.</string>
+    <string name="place_ekb_syrovarnya_address">г. Екатеринбург, улица Дзержинского, 2</string>
+    <string name="place_ekb_syrovarnya_time">Ежедневно 12:00–00:00</string>
+    <string name="place_ekb_syrovarnya_price">Средний чек: 2300-2500 ₽</string>
+
+    <string name="place_ekb_stepanenkov">Степаненков Radius</string>
+    <string name="place_ekb_stepanenkov_description">Мини-отель в центре Екатеринбурга. Из окон открывается красивый вид на город.</string>
+    <string name="place_ekb_stepanenkov_address">г. Екатеринбург, улица Малышева, 42А</string>
+    <string name="place_ekb_stepanenkov_time">Круглосуточно</string>
+    <string name="place_ekb_stepanenkov_price">От 4500 ₽ за ночь</string>
+
+    <string name="place_ekb_oceanarium">Океанариум</string>
+    <string name="place_ekb_oceanarium_description">место, где вы можете познакомиться с подводным миром и его обитателями, такими как акулы, скаты, морские коньки, осьминоги и многие другие.</string>
+    <string name="place_ekb_oceanarium_address">г. Екатеринбург, ул.Щербакова, 2Б</string>
+    <string name="place_ekb_oceanarium_time">Ежедневно 10:00–21:00</string>
+    <string name="place_ekb_oceanarium_price">От 300 ₽</string>
 
 
+    <!-- ================= ТЮМЕНЬ ================= -->
+
+    <string name="place_tyumen_embankment">Историческая набережная Туры</string>
+    <string name="place_tyumen_embankment_description">Многоуровневая набережная с террасами, мостиками и скульптурами, идеальное место для прогулок.</string>
+    <string name="place_tyumen_embankment_address">г. Тюмень, Береговая улица</string>
+    <string name="place_tyumen_embankment_time">Круглосуточно</string>
+    <string name="place_tyumen_embankment_price">Бесплатно</string>
+
+    <string name="place_tyumen_1586">Ресторан 15/86</string>
+    <string name="place_tyumen_1586_description">Популярный ресторан на набережной реки Туры с панорамным видом, европейской кухней и авторскими коктейлями. Отличное место для ужина.</string>
+    <string name="place_tyumen_1586_address">г. Тюмень, улица Володарского, 3</string>
+    <string name="place_tyumen_1586_time">Ежедневно 12:00–00:00</string>
+    <string name="place_tyumen_1586_price">Средний чек: 1500-2000 ₽</string>
+
+    <string name="place_tyumen_azimut">Azimut Сити Отель Тюмень</string>
+    <string name="place_tyumen_azimut_description">Современный отель, расположенный в центре города, недалеко от железнодорожного вокзала и аэропорта.</string>
+    <string name="place_tyumen_azimut_address">г. Тюмень, Камышинская улица, 11</string>
+    <string name="place_tyumen_azimut_time">Круглосуточно</string>
+    <string name="place_tyumen_azimut_price">От 3300 ₽ за ночь</string>
+
+    <string name="place_tyumen_letoleto">Аквапарк «ЛетоЛето»</string>
+    <string name="place_tyumen_letoleto_description">Современный крытый аквапарк с водными горками, детскими зонами, бассейнами и зоной отдыха. Подходит для семейного отдыха в любое время года.</string>
+    <string name="place_tyumen_letoleto_address">г. Тюмень, улица Щербакова, 87</string>
+    <string name="place_tyumen_letoleto_time">Ежедневно 10:00–21:30</string>
+    <string name="place_tyumen_letoleto_price">1600-3400 ₽</string>
 
 
+    <!-- ================= НОВОСИБИРСК ================= -->
 
+    <string name="place_nsk_opera">НОВАТ (Оперный театр)</string>
+    <string name="place_nsk_opera_description">Крупнейшее театральное здание России с уникальным куполом без внутренних опор. Символ города.</string>
+    <string name="place_nsk_opera_address">г. Новосибирск, Красный проспект, 36</string>
+    <string name="place_nsk_opera_time">Ежедневно 10:00–21:00</string>
+    <string name="place_nsk_opera_price">От 600 ₽</string>
+
+    <string name="place_nsk_hot_shop">Горячий цех</string>
+    <string name="place_nsk_hot_shop_description">Ресторан с открытой кухней, где блюда готовятся при гостях на гриле и в коптильне. Известен мясной кухней и паназиатскими блюдами.</string>
+    <string name="place_nsk_hot_shop_address">г. Новосибирск, ул. Ленина, 6</string>
+    <string name="place_nsk_hot_shop_time">Ежедневно 12:00-00:00</string>
+    <string name="place_nsk_hot_shop_price">Средний чек: от 2000 ₽</string>
+
+    <string name="place_nsk_river_park">Отель «River Park»</string>
+    <string name="place_nsk_river_park_description">Трёхзвёздочный отель на Михайловской набережной. Из номеров открывается живописный вид на Обь. В отеле есть сауна, бассейн, тренажёрный зал и детская комната.</string>
+    <string name="place_nsk_river_park_address">г. Новосибирск, ул. Добролюбова, 2</string>
+    <string name="place_nsk_river_park_time">Круглосуточно</string>
+    <string name="place_nsk_river_park_price">От 4000 ₽ за ночь</string>
+
+    <string name="place_nsk_zoo">Новосибирский зоопарк имени Р. А. Шило</string>
+    <string name="place_nsk_zoo_description">Один из крупнейших зоопарков России, занимает площадь 65 га. Коллекция насчитывает около 12 000 особей 790 видов. Более 350 видов занесены в Международную Красную книгу. Здесь одна из лучших в мире коллекций кошачьих и куньих.</string>
+    <string name="place_nsk_zoo_address">г. Новосибирск, ул. Тимирязева, 71/1</string>
+    <string name="place_nsk_zoo_time">Ежедневно 8:00–23:00</string>
+    <string name="place_nsk_zoo_price">350-700 ₽</string>
+
+
+    <!-- ================= ИРКУТСК ================= -->
+
+    <string name="place_irkutsk_130">130-й квартал</string>
+    <string name="place_irkutsk_130_description">Реставрированный исторический квартал с деревянными домами, магазинами и ресторанами.</string>
+    <string name="place_irkutsk_130_address">г. Иркутск, 130-й квартал</string>
+    <string name="place_irkutsk_130_time">Круглосуточно</string>
+    <string name="place_irkutsk_130_price">Бесплатно</string>
+
+    <string name="place_irkutsk_partizan">Партизан</string>
+    <string name="place_irkutsk_partizan_description">Популярный ресторан сибирской и европейской кухни в центре Иркутска. Известен стейками, дичью и уютной атмосферой с элементами охотничьего домика.</string>
+    <string name="place_irkutsk_partizan_address">г. Иркутск, улица Седова, 8</string>
+    <string name="place_irkutsk_partizan_time">Ежедневно 12:00–00:00</string>
+    <string name="place_irkutsk_partizan_price">Средний чек: от 1700 ₽</string>
+
+    <string name="place_irkutsk_city_center">Отель «Иркутск Сити Центр»</string>
+    <string name="place_irkutsk_city_center_description">Современный отель в самом сердце города, рядом с главными достопримечательностями. Предлагает комфортабельные номера, завтраки и бесплатный Wi-Fi.</string>
+    <string name="place_irkutsk_city_center_address">г. Иркутск, улица Чкалова, 15</string>
+    <string name="place_irkutsk_city_center_time">Круглосуточно</string>
+    <string name="place_irkutsk_city_center_price">От 5000 ₽ за ночь</string>
+
+    <string name="place_irkutsk_extravert">Экстраверт</string>
+    <string name="place_irkutsk_extravert_description">Развлекательный центр предлагает своим гостям широкий выбор развлечений, таких как картинг, лазертаг, страйкбол, квесты и многое другое.</string>
+    <string name="place_irkutsk_extravert_address">г. Иркутск, бульвар Рябикова, 96с1</string>
+    <string name="place_irkutsk_extravert_time">Ежедневно 10:00–22:00</string>
+    <string name="place_irkutsk_extravert_price">От 1300 ₽</string>
+
+
+    <!-- ================= ВЛАДИВОСТОК ================= -->
+
+    <string name="place_vladivostok_fokina">Пешеходная улица Фокина</string>
+    <string name="place_vladivostok_fokina_description">Пешеходная улица во Владивостоке, которую часто называют местным Арбатом. Улица вымощена брусчаткой, украшена фонтанами, скамейками и старинными фонарями. С многих точек открывается вид на море, а вдоль улицы расположены магазины, кафе и рестораны.</string>
+    <string name="place_vladivostok_fokina_address">г. Владивосток, ул. Адмирала Фокина</string>
+    <string name="place_vladivostok_fokina_time">Круглосуточно</string>
+    <string name="place_vladivostok_fokina_price">Бесплатно</string>
+
+    <string name="place_vladivostok_studio">Студио</string>
+    <string name="place_vladivostok_studio_description">Ресторан-лаборатория безграничной гастрономии, объединяющая европейскую, русскую и азиатскую кухни. В меню — живые морепродукты из собственного аквариума, авторские коктейли и широкий выбор вин.</string>
+    <string name="place_vladivostok_studio_address">г. Владивосток, ул. Светланская, 18А</string>
+    <string name="place_vladivostok_studio_time">Круглосуточно</string>
+    <string name="place_vladivostok_studio_price">Средний чек: 1500–3000 ₽</string>
+
+    <string name="place_vladivostok_teplo">Отель «Teplo»</string>
+    <string name="place_vladivostok_teplo_description">Уютный отель с высоким сервисом и домашней атмосферой. В стоимость проживания включён завтрак «шведский стол», круглосуточный доступ к кофемашине, чаю, воде и снекам. Расположен недалеко от центра и вокзала.</string>
+    <string name="place_vladivostok_teplo_address">г. Владивосток, ул. Посьетская, 16</string>
+    <string name="place_vladivostok_teplo_time">Круглосуточно</string>
+    <string name="place_vladivostok_teplo_price">От 4000 ₽ за ночь</string>
+
+    <string name="place_vladivostok_mozgolomka">Музей иллюзий «Мозголомка»</string>
+    <string name="place_vladivostok_mozgolomka_description">Самый большой музей оптических иллюзий на Дальнем Востоке. Помимо иллюзий, здесь есть аттракционы виртуальной реальности, симуляторы и зона игровых автоматов с призовыми билетами.</string>
+    <string name="place_vladivostok_mozgolomka_address">г. Владивосток, ул. Калинина, 8</string>
+    <string name="place_vladivostok_mozgolomka_time">Ежедневно 10:00–22:00</string>
+    <string name="place_vladivostok_mozgolomka_price">От 600 ₽</string>
+
+
+    <!-- ================= ХАБАРОВСК ================= -->
+
+    <string name="place_khabarovsk_amur">Набережная Амура</string>
+    <string name="place_khabarovsk_amur_description">Живописная набережная великой реки с памятником Муравьеву-Амурскому и видом на Китай.</string>
+    <string name="place_khabarovsk_amur_address">г. Хабаровск, набережная Адмирала Невельского</string>
+    <string name="place_khabarovsk_amur_time">Круглосуточно</string>
+    <string name="place_khabarovsk_amur_price">Бесплатно</string>
+
+    <string name="place_khabarovsk_restaurant_amur">Амур</string>
+    <string name="place_khabarovsk_restaurant_amur_description">Классический ресторан русской кухни с дальневосточным акцентом, где можно попробовать морепродукты и местные специалитеты.</string>
+    <string name="place_khabarovsk_restaurant_amur_address">г. Хабаровск, ул. Ленина, 29</string>
+    <string name="place_khabarovsk_restaurant_amur_time">Ежедневно 08:00–01:00</string>
+    <string name="place_khabarovsk_restaurant_amur_price">Средний чек: 2000–3500 ₽</string>
+
+    <string name="place_khabarovsk_ruma">Отель «RUMA»</string>
+    <string name="place_khabarovsk_ruma_description">Современный четырёхзвёздочный отель в составе ТЦ «Броско Молл». Интерьеры вдохновлены мифами коренных народов региона, из окон открывается вид на Амур. К услугам гостей спа-комплекс, бассейн, фитнес-клуб и ресторан.</string>
+    <string name="place_khabarovsk_ruma_address">г. Хабаровск, ул. Пионерская, 2Б</string>
+    <string name="place_khabarovsk_ruma_time">Круглосуточно</string>
+    <string name="place_khabarovsk_ruma_price">От 9700 ₽ за ночь</string>
+
+    <string name="place_khabarovsk_scaland">Парк аттракционов «СкаЛэнд»</string>
+    <string name="place_khabarovsk_scaland_description">Популярный парк развлечений на набережной Амура с широким выбором аттракционов: колесо обозрения, башня свободного падения, автодром, батуты и другие. Регулярно обновляется, в том числе итальянскими аттракционами.</string>
+    <string name="place_khabarovsk_scaland_address">г. Хабаровск, Парковая зона стадиона имени Ленина</string>
+    <string name="place_khabarovsk_scaland_time">Ежедневно 11:00–22:00</string>
+    <string name="place_khabarovsk_scaland_price">Аттракционы от 450 ₽</string>
 
 
     <string name="region">Регион</string>

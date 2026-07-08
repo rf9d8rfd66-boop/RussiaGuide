@@ -472,10 +472,286 @@ val places = listOf(
         workTime = R.string.place_nn_maze_time,
         price = R.string.place_nn_maze_price,
         imageRes = R.drawable.place_nn_maze
+    ),
+
+
+    // --- ЕКАТЕРИНБУРГ ---
+    Place(
+        id = 41,
+        cityId = 11,
+        name = R.string.place_ekb_church,
+        category = Category.ATTRACTION,
+        description = R.string.place_ekb_church_description,
+        address = R.string.place_ekb_church_address,
+        workTime = R.string.place_ekb_church_time,
+        price = R.string.place_ekb_church_price,
+        imageRes = R.drawable.place_ekb_church
+    ),
+    Place(
+        id = 42,
+        cityId = 11,
+        name = R.string.place_ekb_syrovarnya,
+        category = Category.CAFE,
+        description = R.string.place_ekb_syrovarnya_description,
+        address = R.string.place_ekb_syrovarnya_address,
+        workTime = R.string.place_ekb_syrovarnya_time,
+        price = R.string.place_ekb_syrovarnya_price,
+        imageRes = R.drawable.place_ekb_syrovarnya
+    ),
+    Place(
+        id = 43,
+        cityId = 11,
+        name = R.string.place_ekb_stepanenkov,
+        category = Category.HOTEL,
+        description = R.string.place_ekb_stepanenkov_description,
+        address = R.string.place_ekb_stepanenkov_address,
+        workTime = R.string.place_ekb_stepanenkov_time,
+        price = R.string.place_ekb_stepanenkov_price,
+        imageRes = R.drawable.place_ekb_stepanenkov
+    ),
+    Place(
+        id = 44,
+        cityId = 11,
+        name = R.string.place_ekb_oceanarium,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_ekb_oceanarium_description,
+        address = R.string.place_ekb_oceanarium_address,
+        workTime = R.string.place_ekb_oceanarium_time,
+        price = R.string.place_ekb_oceanarium_price,
+        imageRes = R.drawable.place_ekb_oceanarium
+    ),
+
+    // --- ТЮМЕНЬ ---
+    Place(
+        id = 45,
+        cityId = 12,
+        name = R.string.place_tyumen_embankment,
+        category = Category.ATTRACTION,
+        description = R.string.place_tyumen_embankment_description,
+        address = R.string.place_tyumen_embankment_address,
+        workTime = R.string.place_tyumen_embankment_time,
+        price = R.string.place_tyumen_embankment_price,
+        imageRes = R.drawable.place_tyumen_embankment
+    ),
+    Place(
+        id = 46,
+        cityId = 12,
+        name = R.string.place_tyumen_1586,
+        category = Category.CAFE,
+        description = R.string.place_tyumen_1586_description,
+        address = R.string.place_tyumen_1586_address,
+        workTime = R.string.place_tyumen_1586_time,
+        price = R.string.place_tyumen_1586_price,
+        imageRes = R.drawable.place_tyumen_1586
+    ),
+    Place(
+        id = 47,
+        cityId = 12,
+        name = R.string.place_tyumen_azimut,
+        category = Category.HOTEL,
+        description = R.string.place_tyumen_azimut_description,
+        address = R.string.place_tyumen_azimut_address,
+        workTime = R.string.place_tyumen_azimut_time,
+        price = R.string.place_tyumen_azimut_price,
+        imageRes = R.drawable.place_tyumen_azimut
+    ),
+    Place(
+        id = 48,
+        cityId = 12,
+        name = R.string.place_tyumen_letoleto,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_tyumen_letoleto_description,
+        address = R.string.place_tyumen_letoleto_address,
+        workTime = R.string.place_tyumen_letoleto_time,
+        price = R.string.place_tyumen_letoleto_price,
+        imageRes = R.drawable.place_tyumen_letoleto
+    ),
+
+    // --- НОВОСИБИРСК ---
+    Place(
+        id = 49,
+        cityId = 13,
+        name = R.string.place_nsk_opera,
+        category = Category.ATTRACTION,
+        description = R.string.place_nsk_opera_description,
+        address = R.string.place_nsk_opera_address,
+        workTime = R.string.place_nsk_opera_time,
+        price = R.string.place_nsk_opera_price,
+        imageRes = R.drawable.place_nsk_opera
+    ),
+    Place(
+        id = 50,
+        cityId = 13,
+        name = R.string.place_nsk_hot_shop,
+        category = Category.CAFE,
+        description = R.string.place_nsk_hot_shop_description,
+        address = R.string.place_nsk_hot_shop_address,
+        workTime = R.string.place_nsk_hot_shop_time,
+        price = R.string.place_nsk_hot_shop_price,
+        imageRes = R.drawable.place_nsk_hot_shop
+    ),
+    Place(
+        id = 51,
+        cityId = 13,
+        name = R.string.place_nsk_river_park,
+        category = Category.HOTEL,
+        description = R.string.place_nsk_river_park_description,
+        address = R.string.place_nsk_river_park_address,
+        workTime = R.string.place_nsk_river_park_time,
+        price = R.string.place_nsk_river_park_price,
+        imageRes = R.drawable.place_nsk_river_park
+    ),
+    Place(
+        id = 52,
+        cityId = 13,
+        name = R.string.place_nsk_zoo,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_nsk_zoo_description,
+        address = R.string.place_nsk_zoo_address,
+        workTime = R.string.place_nsk_zoo_time,
+        price = R.string.place_nsk_zoo_price,
+        imageRes = R.drawable.place_nsk_zoo
+    ),
+
+
+    // --- ИРКУТСК ---
+    Place(
+        id = 53,
+        cityId = 14,
+        name = R.string.place_irkutsk_130,
+        category = Category.ATTRACTION,
+        description = R.string.place_irkutsk_130_description,
+        address = R.string.place_irkutsk_130_address,
+        workTime = R.string.place_irkutsk_130_time,
+        price = R.string.place_irkutsk_130_price,
+        imageRes = R.drawable.place_irkutsk_130
+    ),
+    Place(
+        id = 54,
+        cityId = 14,
+        name = R.string.place_irkutsk_partizan,
+        category = Category.CAFE,
+        description = R.string.place_irkutsk_partizan_description,
+        address = R.string.place_irkutsk_partizan_address,
+        workTime = R.string.place_irkutsk_partizan_time,
+        price = R.string.place_irkutsk_partizan_price,
+        imageRes = R.drawable.place_irkutsk_partizan
+    ),
+    Place(
+        id = 55,
+        cityId = 14,
+        name = R.string.place_irkutsk_city_center,
+        category = Category.HOTEL,
+        description = R.string.place_irkutsk_city_center_description,
+        address = R.string.place_irkutsk_city_center_address,
+        workTime = R.string.place_irkutsk_city_center_time,
+        price = R.string.place_irkutsk_city_center_price,
+        imageRes = R.drawable.place_irkutsk_city_center
+    ),
+    Place(
+        id = 56,
+        cityId = 14,
+        name = R.string.place_irkutsk_extravert,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_irkutsk_extravert_description,
+        address = R.string.place_irkutsk_extravert_address,
+        workTime = R.string.place_irkutsk_extravert_time,
+        price = R.string.place_irkutsk_extravert_price,
+        imageRes = R.drawable.place_irkutsk_extravert
+    ),
+
+
+    // --- ВЛАДИВОСТОК ---
+    Place(
+        id = 57,
+        cityId = 15,
+        name = R.string.place_vladivostok_fokina,
+        category = Category.ATTRACTION,
+        description = R.string.place_vladivostok_fokina_description,
+        address = R.string.place_vladivostok_fokina_address,
+        workTime = R.string.place_vladivostok_fokina_time,
+        price = R.string.place_vladivostok_fokina_price,
+        imageRes = R.drawable.place_vladivostok_fokina
+    ),
+    Place(
+        id = 58,
+        cityId = 15,
+        name = R.string.place_vladivostok_studio,
+        category = Category.CAFE,
+        description = R.string.place_vladivostok_studio_description,
+        address = R.string.place_vladivostok_studio_address,
+        workTime = R.string.place_vladivostok_studio_time,
+        price = R.string.place_vladivostok_studio_price,
+        imageRes = R.drawable.place_vladivostok_studio
+    ),
+    Place(
+        id = 59,
+        cityId = 15,
+        name = R.string.place_vladivostok_teplo,
+        category = Category.HOTEL,
+        description = R.string.place_vladivostok_teplo_description,
+        address = R.string.place_vladivostok_teplo_address,
+        workTime = R.string.place_vladivostok_teplo_time,
+        price = R.string.place_vladivostok_teplo_price,
+        imageRes = R.drawable.place_vladivostok_teplo
+    ),
+    Place(
+        id = 60,
+        cityId = 15,
+        name = R.string.place_vladivostok_mozgolomka,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_vladivostok_mozgolomka_description,
+        address = R.string.place_vladivostok_mozgolomka_address,
+        workTime = R.string.place_vladivostok_mozgolomka_time,
+        price = R.string.place_vladivostok_mozgolomka_price,
+        imageRes = R.drawable.place_vladivostok_mozgolomka
+    ),
+
+
+    // --- ХАБАРОВСК ---
+    Place(
+        id = 61,
+        cityId = 16,
+        name = R.string.place_khabarovsk_amur,
+        category = Category.ATTRACTION,
+        description = R.string.place_khabarovsk_amur_description,
+        address = R.string.place_khabarovsk_amur_address,
+        workTime = R.string.place_khabarovsk_amur_time,
+        price = R.string.place_khabarovsk_amur_price,
+        imageRes = R.drawable.place_khabarovsk_amur
+    ),
+    Place(
+        id = 62,
+        cityId = 16,
+        name = R.string.place_khabarovsk_restaurant_amur,
+        category = Category.CAFE,
+        description = R.string.place_khabarovsk_restaurant_amur_description,
+        address = R.string.place_khabarovsk_restaurant_amur_address,
+        workTime = R.string.place_khabarovsk_restaurant_amur_time,
+        price = R.string.place_khabarovsk_restaurant_amur_price,
+        imageRes = R.drawable.place_khabarovsk_restaurant_amur
+    ),
+    Place(
+        id = 63,
+        cityId = 16,
+        name = R.string.place_khabarovsk_ruma,
+        category = Category.HOTEL,
+        description = R.string.place_khabarovsk_ruma_description,
+        address = R.string.place_khabarovsk_ruma_address,
+        workTime = R.string.place_khabarovsk_ruma_time,
+        price = R.string.place_khabarovsk_ruma_price,
+        imageRes = R.drawable.place_khabarovsk_ruma
+    ),
+    Place(
+        id = 64,
+        cityId = 16,
+        name = R.string.place_khabarovsk_scaland,
+        category = Category.ENTERTAINMENT,
+        description = R.string.place_khabarovsk_scaland_description,
+        address = R.string.place_khabarovsk_scaland_address,
+        workTime = R.string.place_khabarovsk_scaland_time,
+        price = R.string.place_khabarovsk_scaland_price,
+        imageRes = R.drawable.place_khabarovsk_scaland
     )
-
-
-
-
 
 )
