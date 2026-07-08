@@ -14,4 +14,6 @@ sealed class Screen(val route: String) {
         fun createRoute(placeId: Int) = "place/$placeId"
     }
 
+    object FilterResult : Screen("filter_result")
+
 }
