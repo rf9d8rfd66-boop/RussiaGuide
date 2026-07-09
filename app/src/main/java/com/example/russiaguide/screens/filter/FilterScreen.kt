@@ -18,15 +18,20 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
+import androidx.navigation.NavController
 import com.example.russiaguide.R
+import com.example.russiaguide.data.cities
+import com.example.russiaguide.model.Category
+import com.example.russiaguide.model.Region
+import com.example.russiaguide.navigations.Screen
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun FilterScreen() {
+fun FilterScreen(navController: NavController) {
 
-    val regions = listOf("Выберите регион")
-    val cities = listOf("Выберите город")
-    val categories = listOf("Выберите тип места")
+    val regions = listOf(stringResource(R.string.all_regions)) + Region.values().map { stringResource(it.titleRes) }
+    val cities = listOf(stringResource(R.string.all_cities_filter)) + cities.map { stringResource(it.name) }
+    val categories = listOf(stringResource(R.string.all_types)) + Category.values().map { stringResource(it.titleRes) }
 
     var selectedRegion by remember { mutableStateOf(regions[0]) }
     var selectedCity by remember { mutableStateOf(cities[0]) }
@@ -62,7 +67,6 @@ fun FilterScreen() {
             OutlinedTextField(
                 value = selectedRegion,
                 onValueChange = {},
-                readOnly = true,
                 modifier = Modifier
                     .menuAnchor(MenuAnchorType.PrimaryNotEditable)
                     .fillMaxWidth(),
@@ -199,12 +203,18 @@ fun FilterScreen() {
         }
 
         Button(
-            onClick = { },
+            onClick = {
+                navController.navigate(
+                    Screen.FilterResult.createRoute(
+                        region = selectedRegion,
+                        city = selectedCity,
+                        category = selectedCategory
+                    )
+                )
+            },
             modifier = Modifier.fillMaxWidth()
         ) {
-
             Text(stringResource(R.string.show))
-
         }
 
     }

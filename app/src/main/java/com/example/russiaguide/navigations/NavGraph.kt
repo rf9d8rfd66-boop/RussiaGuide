@@ -1,13 +1,18 @@
 package com.example.russiaguide.navigation
 
 import androidx.compose.runtime.Composable
+import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import androidx.navigation.navArgument
+import com.example.russiaguide.navigations.Screen
 import com.example.russiaguide.screens.CityScreen
 import com.example.russiaguide.screens.FilterScreen
 import com.example.russiaguide.screens.HomeScreen
 import com.example.russiaguide.screens.PlaceScreen
+import com.example.russiaguide.screens.filter.FilterResultScreen
+
 @Composable
 fun AppNavGraph() {
 
@@ -34,7 +39,7 @@ fun AppNavGraph() {
         }
 
         composable(Screen.Filter.route) {
-            FilterScreen()
+            FilterScreen(navController)
         }
 
         composable(Screen.City.route) { backStackEntry ->
@@ -62,6 +67,26 @@ fun AppNavGraph() {
                 placeId = placeId
             )
 
+        }
+
+        composable(
+            route = Screen.FilterResult.route,
+            arguments = listOf(
+                navArgument("region") { type = NavType.StringType },
+                navArgument("city") { type = NavType.StringType },
+                navArgument("category") { type = NavType.StringType }
+            )
+        ) { backStackEntry ->
+            val region = backStackEntry.arguments?.getString("region") ?: "Все регионы"
+            val city = backStackEntry.arguments?.getString("city") ?: "Все города"
+            val category = backStackEntry.arguments?.getString("category") ?: "Все типы"
+
+            FilterResultScreen(
+                navController = navController,
+                region = region,
+                city = city,
+                category = category
+            )
         }
 
     }

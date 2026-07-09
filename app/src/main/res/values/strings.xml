@@ -541,4 +541,17 @@
     <string name="show">Показать</string>
 
 
+    <!-- FilterResultScreen -->
+    <string name="all_types">Все типы</string>
+    <string name="all_regions">Все регионы</string>
+    <string name="filter_result">Результаты фильтрации</string>
+    <string name="places_found">Найдено мест: %d</string>
+    <string name="nothing_found">Не найдено соответствующих мест</string>
+
+    <!-- Для FilterScreen.kt -->
+    <string name="all_cities_filter">Все города</string>
+
+
+
+
 </resources>
